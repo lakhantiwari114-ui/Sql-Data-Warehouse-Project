@@ -1,3 +1,4 @@
+[![Built with Data With Baraa](https://img.shields.io/badge/Built_with-Data_With_Baraa-F5B301?style=for-the-badge)](https://github.com/DataWithBaraa/sql-data-warehouse-project)
 # Sql-Data-Warehouse-Project
 Building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics.
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
