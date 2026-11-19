@@ -34,6 +34,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ram-tiwari-3927563b4/)
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
